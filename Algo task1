@@ -1,0 +1,21 @@
+Algorithme task1
+var 
+ch:= char
+nbr , nbrw , nbrv : integer:=0;
+begin
+Read (ch)
+nbrw= 1
+while(ch<> ".")
+if (ch==" ")
+nbr=nbr+1
+nbrw = nbrw+1
+else if (chin{"e","a","w","o","y","i"})
+nbr = nbr+1
+nbrv=nbrv+1
+else
+nbr=nbr+1
+write ("the number of wods is " nbrw)
+write ("the length of sentence is " nbr)
+write ("the number of vowels in the sentence"nbrv)
+
+
